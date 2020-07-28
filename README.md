@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm the developer of zmNinja, zmeventnotification, mlapi, pyzm and other interesting things for home security systems.
+
 <!--
 **pliablepixels/pliablepixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
