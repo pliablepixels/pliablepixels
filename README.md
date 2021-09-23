@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the developer of zmNinja, zmeventnotification, mlapi, pyzm and other interesting things for home security systems.
+I'm the developer of zmNinja, zmeventnotification, mlapi, pyzm and other interesting things for home security systems. I've had a lot of fun creating cool stuff for ZM over the last 6 years but have unfortunately run out of time to actively maintain these projects. [Read more here](https://forums.zoneminder.com/viewtopic.php?f=33&t=30996). I'll continue to fiddle around in my spare time, but can't offer active support.
 
 <!--
 **pliablepixels/pliablepixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
