@@ -6,8 +6,7 @@ All my original repos were moved over to ZoneMinder org - you'll see forked vers
 - [zmNinja](https://github.com/ZoneMinder/zmNinja)
 - [ZM Event Server](https://github.com/ZoneMinder/zmeventnotification)
 - [ML API](https://github.com/ZoneMinder/mlapi)
-- [pyzm] (https://github.com/ZoneMinder/pyzm)
-- 
+- [pyzm](https://github.com/ZoneMinder/pyzm)
 
 <!--
 **pliablepixels/pliablepixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
