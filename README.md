@@ -7,7 +7,7 @@ All my original repos were moved over to ZoneMinder org - you'll see forked vers
 
 ### But then Agentic AI happened...
 
-These days I'm leveraging agentic AI tools to build software. Times have changed. These tools are getting really good, as long as you know how to use them. For example, on a whim, I spent a few days rewriting zmNinja. The new version has more features, is more stable and has more features. Did the first version in 2.5 days and have been messing around since then: 
+These days I'm leveraging agentic AI tools to build software. Times have changed. These tools are getting really good, as long as you know how to use them. For example, on a whim, I spent a few days rewriting zmNinja. The new version has more features, is more stable and has more features. Did the first version in 2.5 days and have been messing around since then. I rewrote ES, I rewrote pyZM, and who knows what else next.
 - [zmNg](https://github.com/pliablepixels/zmNg)
 - [pyzmv2+](https://github.com/pliablepixels/pyzm) (which also does the job of mlapi)
 - [zmESv7+](https://github.com/pliablepixels/zmeventnotification)
